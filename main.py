@@ -40,7 +40,7 @@ class CameraScreen(Screen):
         # The captured photo will be displayed after switching to the ImageScreen
         self.manager.current_screen.ids.img.source = self.filepath
 
-
+#asdasdasd
 class ImageScreen(Screen):
     link_message = "Create a link first"
     def create_link(self):
